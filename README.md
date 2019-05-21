@@ -5,7 +5,7 @@ This package provides a variety of Flow Apex Actions to be used in Salesforce Fl
 
 ## Send Email with Template
 
-This action was built because the standard Email Action that comes with Flow does not associate the email with the user or target records Activity feed.
+This action was built because the standard Email Action that comes with Flow does not associate the email with the user or target records Activity feed. This action will associate with the Activity feed so you have a log of it.
 
 Here are the input parameters for this action:
 | Input Param | Required/Optional | Description |
