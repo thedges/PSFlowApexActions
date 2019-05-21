@@ -13,6 +13,10 @@ Here are the input parameters for this action:
 | templateName | required | The API/developer name of the email template to use |
 | whatId | optional | The id of the target object to use as base of the email template (ex: a case id) |
 
+Here is snapshot of how the Apex Action will show in Flow Builder:
+
+![](https://raw.githubusercontent.com/thedges/PSFlowApexActions/master/SendTemplateEmail.png)
+
 <a href="https://githubsfdeploy.herokuapp.com">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
