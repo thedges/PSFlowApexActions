@@ -10,6 +10,7 @@ This action was built because the standard Email Action that comes with Flow doe
 Here are the input parameters for this action:
 
 | Input Param | Required/Optional | Description |
+| ----------- | ----------------- | ----------- |
 | whoId | required | The contact, lead or user id |
 | templateName | required | The API/developer name of the email template to use |
 | whatId | optional | The id of the target object to use as base of the email template (ex: a case id) |
