@@ -5,7 +5,7 @@ This package provides a variety of Flow Apex Actions to be used in Salesforce Fl
 
 ## Record Info by RecordId
 
-This action was built to provide easy way to retrieve record info such as object name, record type name, etc... for a given recordid. The primary purpose was to be able to determine the RecordType by Name/Label versus a hard-coded id so that your flows are portable. Granted most of the time you are building a flow for a specific object, but with this action you can determine the object at runtime and traverse a different flow path if necessary.
+This action was built to provide easy way to retrieve record info such as object name, record type name, etc... for a given record id. The primary purpose was to be able to retrieve the RecordType Name/Label of a given record and then have conditional flow logic use the Name/Label versus a hard-coded id. This will allow your flows to be portable. I also added returning the record ids object label and API name. Granted most of the time you are building a flow for a specific object, but with this action you can determine the object at runtime and traverse a different flow path if necessary.
 
 Here are the input parameters for this action:
 
