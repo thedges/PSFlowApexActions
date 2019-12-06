@@ -26,7 +26,7 @@ Here are the output parameters for this action:
 
 Here is snapshot of how the Apex Action will show in Flow Builder:
 
-![](https://raw.githubusercontent.com/thedges/PSFlowApexActions/master/PSActionRecordIdInfo.png)
+![](https://raw.githubusercontent.com/thedges/PSFlowApexActions/master/PSActionRecordIdInfo.jpg)
 
 ## Send Email with Template
 
