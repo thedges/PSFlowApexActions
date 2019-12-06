@@ -24,6 +24,10 @@ Here are the output parameters for this action:
 | recordTypeLabel | optional |  If record types are defined for this object, the recordtype label of the record. (ex: Animal Control)|
 | recordTypeName | optional |  If record types are defined for this object, the recordtype name of the record. (ex: Animal_Control)|
 
+Here is snapshot of how the Apex Action will show in Flow Builder:
+
+![](https://raw.githubusercontent.com/thedges/PSFlowApexActions/master/PSActionRecordIdInfo.png)
+
 ## Send Email with Template
 
 This action was built because the standard Email Action that comes with Flow does not associate the email with the user or target records Activity feed. This action will associate with the Activity feed so you have a log of it.
