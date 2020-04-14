@@ -2,6 +2,8 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>PSActionRecordIdInfo</members>
+        <members>PSActionRecordIdInfo</members>
+        <members>PSActionRecordTypeIdByDevName</members>
         <members>PSSendTemplateEmail</members>
         <name>ApexClass</name>
     </types>
